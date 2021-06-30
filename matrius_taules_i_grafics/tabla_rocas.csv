@@ -1,0 +1,18 @@
+;Tipo roca;roca
+1;igneas;pumita
+2;igneas;obsidiana
+3;igneas;basalto
+4;igneas;granito
+5;igneas;gabro
+6;metamorficas;pizarra
+7;metamorficas;esquisto
+8;metamorficas;gneis
+9;metamorficas;marmol
+10;metamorficas;cuarcita
+11;sedimentarias;arcilla
+12;sedimentarias;arenisca
+13;sedimentarias;pudingas
+14;sedimentarias;brechas
+15;sedimentarias;caliza
+16;sedimentarias;sal
+17;sedimentarias;carbon

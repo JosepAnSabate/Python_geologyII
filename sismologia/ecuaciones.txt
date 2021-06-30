@@ -1,0 +1,8 @@
+Conversión de aceleración (gmv_PGA y gmv_PGV) a intensidad (I):
+-Si log(gmv_PGA)<=1.6, I=2.27+1.647*log(gmv_PGA)
+-Si log(gmv_PGA)>1.6, I=-1.361+3.822*log(gmv_PGA)
+
+-Si log(gmv_PGV)<=0.3, I=4.424+1.589*log(gmv_PGV)
+-Si log(gmv_PGV)>0.3, I=4.018+2.671*log(gmv_PGV)
+
+(Ecuaciones de Caprio et al. 2015)
